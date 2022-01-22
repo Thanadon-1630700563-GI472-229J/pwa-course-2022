@@ -1,3 +1,3 @@
-function helloworld() {
-  alert("Hello World!");
+function Text() {
+  alert("Hi my name is Tanadon");
 }
