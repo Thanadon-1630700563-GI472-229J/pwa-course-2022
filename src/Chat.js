@@ -7,8 +7,8 @@ import './Chat.css';
 
 function Chat() {
   const [chatData, setChatData] = useState([
-    {user: "user1", msg: "You love Hee?", position: "left"},
-    {user: "user2", msg: "Yes I love hee", position: "right"},
+    {user: "user1", msg: "Hi", position: "left"},
+    {user: "user2", msg: "Hello", position: "right"},
     {user: "user1", msg: "Wow very good!", position: "left"},
     {user: "user2", msg: "Thanks!", position: "right"},
     

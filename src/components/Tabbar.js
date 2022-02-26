@@ -13,9 +13,6 @@ function Tabbar () {
       <Link to="/profile" className="tabbutton">
         Profile
       </Link>
-      <Link to="/Hee" className="tabbutton">
-        Hee
-      </Link>
     </div>
   )
 }
