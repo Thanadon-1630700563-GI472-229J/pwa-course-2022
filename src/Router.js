@@ -8,6 +8,7 @@ import PrivateChat from "./PrivateChat";
 import Profile from "./Profile";
 import FriendList from "./FriendList";
 import FriendProfile from "./FriendProfile";
+import TestState from "./TestState";
 import { useAuthStateContext, LoginComponent } from './context/FirebaseAuthContextProvider';
 import ChatStateProvider from "./context/FirebaseChatContextProvider";
   
